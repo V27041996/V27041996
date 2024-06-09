@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Salkatte_VinayKumar
 - 👀 I’m interested in Software Testing and Development
-- 🌱 I’m currently learning Automation Testing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python testing
 - 📫 How to reach me mailid - salkattevinay@gmail.com
 
 
